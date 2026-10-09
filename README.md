@@ -1,107 +1,78 @@
-<h1 align="center">Hi 👋, I'm Lakshmanan A</h1>
+# Hi, I'm Lakshmanan A 👋
 
-<h3 align="center">Full Stack Developer · AWS & DevOps · Web and IoT Applications</h3>
+### Full Stack Developer · AWS & DevOps
 
-<p align="center">
-  I build full-stack applications, integrate real-world services, and deploy them with Docker and cloud platforms.
-</p>
+I build and deploy web applications with **Next.js, React, Node.js, and Docker**. Based in **Coimbatore, Tamil Nadu**, with **1 year of development experience**.
 
-<p align="center">
-  <a href="https://lakshmanan-portfolio-iota.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/iam-lakshmanan/">LinkedIn</a> ·
-  <a href="mailto:lakshmanan02731@gmail.com">Email</a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://lakshmanan-portfolio-iota.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/iam-lakshmanan/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmanan02731@gmail.com)
 
 ---
 
-## 👨‍💻 About me
+### 🚀 What I'm up to
 
-I'm a Full Stack Developer based in **Coimbatore, India**, with **1 year of experience** building and deploying web applications.
+- 💻 Building full-stack web applications, admin panels, and responsive interfaces.
+- 🐳 Deploying applications with **Docker, DigitalOcean, Linux, Nginx, and PM2**.
+- ☁️ Developing practical skills in **AWS, CI/CD, infrastructure automation, and monitoring**.
+- 🌱 Intermediate understanding and hands-on practice in **Jenkins, Terraform, Kubernetes, and monitoring**.
+- 🤖 Using **Codex and Claude** for development and debugging, with review and validation of generated changes.
+- 💼 Open to **Full Stack Developer opportunities** — immediate joiner.
+- 🍳 Outside coding: cooking, travelling with friends, and listening to music.
 
-I work with **React, Next.js, Node.js, Express, and SQL databases**, across e-commerce, taxi booking, and IoT applications. My work includes responsive interfaces, REST APIs, authentication, admin panels, third-party integrations, and application deployment.
+### 💼 My journey
 
-I have hands-on experience with **Docker, DigitalOcean, Linux, Nginx, and PM2**, plus practical exposure to AWS. I have **intermediate understanding and hands-on practice in Jenkins, Terraform, Kubernetes, and monitoring**, and I'm continuing to develop these skills through projects.
+| Role | Organization | Period |
+| --- | --- | --- |
+| Full Stack Developer | Magnic Technologies Pvt Ltd | Nov 2025 – Present |
+| Freelance Full Stack Developer | Wexoraa Infotech | Jan 2026 – Present |
 
-**Open to Full Stack Developer opportunities · Immediate joiner**
+🎓 **M.Sc. Statistics** — PSG College of Arts and Science, 2025  
+🎓 **B.Sc. Mathematics** — Sri Ramakrishna Mission Vidyalaya College of Arts and Science, 2023
 
-## 🛠️ Technology stack
+### 💻 I build with
 
-| Area | Technologies |
-| --- | --- |
-| Frontend | React.js, Next.js, JavaScript, HTML, CSS, Tailwind CSS, PWA |
-| Backend | Node.js, Express.js, TypeScript, REST APIs, JWT |
-| Databases | PostgreSQL, MySQL, MongoDB |
-| Cloud & storage | AWS, DigitalOcean, DigitalOcean Spaces, Cloudinary |
-| Deployment | Docker, Docker Compose, Linux, Nginx, PM2, SSL/HTTPS |
-| CI/CD & infrastructure | GitHub Actions, Jenkins, Terraform, Ansible |
-| Orchestration & operations | Kubernetes, monitoring, logs, troubleshooting |
-| Integrations | Google Maps APIs, Telegram Bot API, MQTT, Mosquitto |
-| Development tools | Git, GitHub, Postman, VS Code, Codex, Claude |
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,nodejs,express,postgres,mysql,mongodb&perline=6" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS, Node.js, Express, PostgreSQL, MySQL, MongoDB" />
+</p>
 
-*Jenkins, Terraform, Kubernetes, and monitoring reflect intermediate understanding and hands-on practice.*
+### ☁️ Cloud, DevOps & tools
 
-## 🚀 Selected projects
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github,githubactions,jenkins,terraform,ansible,kubernetes,vscode,postman&perline=7" alt="AWS, Docker, Linux, Nginx, Git, GitHub, GitHub Actions, Jenkins, Terraform, Ansible, Kubernetes, VS Code, Postman" />
+</p>
 
-### 🔐 Fingerprint Smart Lock — Full-Stack Application
-**Next.js · Tailwind CSS · Node.js / Express · TypeScript · MySQL · MQTT**
+**Also work with:** DigitalOcean · Cloudinary · DigitalOcean Spaces · PM2 · MQTT / Mosquitto · Google Maps APIs · Telegram Bot API.
 
-Contributed to an existing smart-lock application by updating the frontend UI, improving mobile responsiveness, completing live workflows, and developing a dedicated admin panel.
+*Tools shown include both application work and hands-on learning. Jenkins, Terraform, Kubernetes, and monitoring reflect intermediate understanding with practical exercises.*
 
-[Visit the application →](https://lockuser.magnic.in/)
+### 🛠️ Projects I've worked on
 
-### 🏋️ GymHack — Full-Stack E-commerce Website
-**Next.js · Tailwind CSS · Node.js · Cloudinary · Docker · Docker Compose**
+| Project | My contribution | Live |
+| --- | --- | --- |
+| **Fingerprint Smart Lock** | Updated an existing Next.js UI, improved mobile responsiveness, completed live workflows, and developed a dedicated admin panel. | [Visit ↗](https://lockuser.magnic.in/) |
+| **GymHack** | Built a full-stack e-commerce website with an admin panel, Cloudinary storage, and Docker Compose deployment. | [Visit ↗](https://gymhack.in/) |
+| **KGF Lottery Agency** | Built a results and offers website with an admin panel and DigitalOcean Spaces storage. | [Visit ↗](https://kgflottery.com/) |
+| **PurpleDropTaxi** | Built a taxi-booking PWA with autocomplete, fare estimates, route maps, and Telegram enquiries; deployed on Hostinger. | [Visit ↗](https://purpledroptaxi.com/) |
+| **Mangal and Mangal Ecom Super Store** | Collaborated with the team on catalogs, reviews, shipping logic, and an admin dashboard. | [Visit ↗](https://stores.mangalandmangal.com/) |
 
-Built an e-commerce website with an integrated frontend, backend, and admin panel. Used Cloudinary for file storage and Docker Compose for containerized deployment.
+### 🏅 Certifications & training
 
-[Visit GymHack →](https://gymhack.in/)
-
-### 🎟️ KGF Lottery Agency — Results & Offers Website
-**Next.js · Tailwind CSS · Node.js · DigitalOcean Spaces**
-
-Built a full-stack website for lottery results and promotional offers, with an admin panel for content management and DigitalOcean Spaces for file storage.
-
-[Visit KGF Lottery Agency →](https://kgflottery.com/)
-
-### 🚕 PurpleDropTaxi — Taxi-Booking Platform
-**Next.js · React · Tailwind CSS · Google Maps APIs · Telegram Bot API · Hostinger**
-
-Built a responsive taxi-booking platform with location autocomplete, fare estimates, route mapping, Telegram enquiries, and PWA support. Deployed the application on Hostinger.
-
-[Visit PurpleDropTaxi →](https://purpledroptaxi.com/)
-
-### 🛒 Mangal and Mangal — Ecom Super Store
-**Next.js · Tailwind CSS · Node.js · PostgreSQL**
-
-Collaborated with the development team on product catalogs, customer reviews, pincode- and state-based shipping logic, and an admin dashboard.
-
-[Visit the store →](https://stores.mangalandmangal.com/)
-
-## ☁️ Cloud & DevOps practice
-
-- Deploy applications using Docker, Linux, Nginx, PM2, and SSL/HTTPS.
-- Work with DigitalOcean deployments and practice AWS services including EC2, S3, VPC, RDS, and IAM.
-- Practice CI/CD workflows with GitHub Actions and Jenkins.
-- Develop infrastructure automation skills with Terraform and Ansible.
-- Explore Kubernetes deployments, monitoring, logs, and troubleshooting.
-
-## 🎓 Certifications & completed training
-
-- **Certified Full Stack Development** — Credential: `PT/GP/MERN/153/2025`
+- **Certified Full Stack Development** — `PT/GP/MERN/153/2025`
 - **DevOps Engineering** — Revamp Academy · Completed July 2026
 - **AWS Cloud Computing Training** — Revamp Academy · Completed July 2026
 - **Infrastructure Automation & Monitoring Training** — Revamp Academy · Completed July 2026
 
-## 🤖 How I use AI tools
+### 📈 GitHub activity
 
-I use **Codex and Claude** for implementation support, debugging, code exploration, and review. I review generated changes and validate their behavior before integrating them into an application.
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-lakshmanan&show_icons=true&theme=github_dark&hide_border=true" alt="Lakshmanan's public GitHub statistics" />
+</p>
 
-## 🌱 Currently developing
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-lakshmanan&theme=github-dark&hide_border=true&area=true" alt="Lakshmanan's GitHub contribution activity" />
+</p>
 
-**Infrastructure automation · Kubernetes · Monitoring & observability · Reliable deployment workflows**
+### 🤝 Let's connect
 
-## 🤝 Let's connect
-
-Interested in full-stack development, application deployment, or a project collaboration? Reach me through [LinkedIn](https://www.linkedin.com/in/iam-lakshmanan/) or [email](mailto:lakshmanan02731@gmail.com).
-
-Outside development, I enjoy **cooking, travelling with friends, and listening to music**.
+Interested in full-stack development, cloud deployments, or a collaboration? Find me on [LinkedIn](https://www.linkedin.com/in/iam-lakshmanan/) or explore my [portfolio](https://lakshmanan-portfolio-iota.vercel.app/).
