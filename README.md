@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer · AWS Cloud & DevOps</h3
 
 <p align="center">
-  Building web applications, connecting real-world systems, and bringing them to the cloud.
+             Building web applications, connecting real-world systems, and bringing them to the cloud.
 </p>
 
 <p align="center">
