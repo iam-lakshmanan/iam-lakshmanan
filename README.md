@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshmanan A</h1>
 
-<h3 align="center">Full Stack Developer · Cloud & DevOps Engineering</h3>
+<h3 align="center">Full Stack Developer · AWS Cloud & DevOps</h3
 
 <p align="center">
   Building web applications, connecting real-world systems, and bringing them to the cloud.
