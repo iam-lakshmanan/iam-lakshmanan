@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshmanan A</h1>
 
-<h3 align="center">Full Stack Developer · AWS & DevOps</h3>
+<h3 align="center">Full Stack Developer · Cloud & DevOps Engineering</h3>
 
 <p align="center">
   Building web applications, connecting real-world systems, and bringing them to the cloud.
@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About me
 
-I'm a **Full Stack Developer** working with **React, Next.js, Node.js, and SQL databases**. I develop responsive interfaces, REST APIs, admin panels, authentication flows, and third-party integrations across e-commerce, taxi-booking, and IoT applications.
+I'm a **Full Stack Developer** working with **React, Next.js, Node.js, TypeScript, and SQL databases**. I develop responsive interfaces, REST APIs, admin panels, authentication flows, and third-party integrations across e-commerce, taxi-booking, and IoT applications.
 
 My work extends to deploying and maintaining applications with **Docker, DigitalOcean, Linux, Nginx, and PM2**. I'm building on that experience through AWS practice and infrastructure automation.
 
@@ -36,6 +36,7 @@ My work extends to deploying and maintaining applications with **Docker, Digital
 - 📡 **Connected systems:** IoT workflows, MQTT, maps, and messaging integrations.
 - 🐳 **Deployment:** containerized applications, cloud hosting, domains, and SSL/HTTPS.
 - 🌱 **DevOps practice:** intermediate understanding and hands-on practice in Jenkins, Terraform, Kubernetes, and monitoring.
+- 🧪 **Testing:** API validation with Postman and manual checks of application workflows and deployments.
 - 🤖 **AI-assisted development:** Codex and Claude for implementation, debugging, and exploration, with review and validation of generated changes.
 
 ## 💼 Experience
@@ -43,7 +44,7 @@ My work extends to deploying and maintaining applications with **Docker, Digital
 | Role | Organization | Period |
 | --- | --- | --- |
 | **Full Stack Developer** | Magnic Technologies Pvt Ltd | Nov 2025 – Present |
-| **Freelance Full Stack Developer** | Wexoraa Infotech | Jan 2026 – Present |
+| **Freelance Full Stack Developer** | Independent Freelance Projects | Jan 2026 – Oct 2026 |
 
 Delivered **8+ web projects** through freelance work, including application features, integrations, deployment, and maintenance.
 
@@ -58,7 +59,7 @@ Delivered **8+ web projects** through freelance work, including application feat
 ### Backend & databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb" alt="Node.js, Express, PostgreSQL, MySQL, MongoDB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" alt="Node.js, Express, PostgreSQL, MySQL" />
 </p>
 
 ### Cloud, deployment & automation
@@ -75,19 +76,13 @@ Delivered **8+ web projects** through freelance work, including application feat
 
 **Storage & hosting:** DigitalOcean · DigitalOcean Spaces · Cloudinary · Hostinger · PM2  
 **APIs & messaging:** REST · JWT · Google Maps APIs · Telegram Bot API · MQTT / Mosquitto  
-**Web capabilities:** Responsive design · PWA · SEO
+**Web capabilities:** Responsive design · PWA · SEO  
+**Testing & quality:** Postman API testing · Manual testing of authentication, shipping rules, and deployments · SonarQube (code quality and static analysis)  
+**AI integration:** Ready to work with LLM APIs and integrate AI features into web applications
 
 *Jenkins, Terraform, Kubernetes, and monitoring reflect intermediate understanding and hands-on practice.*
 
 ## 🚀 Selected projects
-
-### 🔐 Fingerprint Smart Lock — Full-Stack Application
-
-`Next.js` `Tailwind CSS` `Node.js / Express` `TypeScript` `MySQL` `MQTT`
-
-Contributed to an **existing application** by updating the frontend UI, improving mobile responsiveness, completing live workflows, and developing a dedicated admin panel.
-
-[Explore the application ↗](https://lockuser.magnic.in/)
 
 ### 🏋️ GymHack — Full-Stack E-commerce Website
 
@@ -97,6 +92,30 @@ Built an e-commerce website with an integrated frontend, backend, and admin pane
 
 [Explore GymHack ↗](https://gymhack.in/)
 
+### 🚕 Intercity One-Way Drop Taxis — Taxi Service Website
+
+`Docker` `GitHub Actions` `Docker Hub` `Nginx` `PM2` `SSH`
+
+Developed and deployed an intercity one-way drop taxi website using Docker, Nginx, and PM2. Automated builds and deployments with GitHub Actions to reduce manual release steps.
+
+**Deployment workflow:**
+
+1. A push to `main` triggers the GitHub Actions workflow.
+2. Docker Buildx builds the image and pushes `latest` and commit-SHA tags to Docker Hub.
+3. The workflow connects to the server over SSH and pulls the latest image.
+4. It replaces the existing container, loads the server environment file, and starts the new container with an automatic restart policy.
+5. It removes unused images and lists the deployed container.
+
+[Explore Intercity One-Way Drop Taxis ↗](https://intercitydroptaxis.com/)
+
+### 🔐 Fingerprint Smart Lock — Full-Stack Application
+
+`Next.js` `Tailwind CSS` `Node.js / Express` `TypeScript` `MySQL` `MQTT`
+
+Contributed to an **existing application** by updating the frontend UI, improving mobile responsiveness, completing live workflows, and developing a dedicated admin panel.
+
+[Explore the application ↗](https://lockuser.magnic.in/)
+
 ### 🎟️ KGF Lottery Agency — Results & Offers Website
 
 `Next.js` `Tailwind CSS` `Node.js` `DigitalOcean Spaces`
@@ -105,19 +124,11 @@ Built a full-stack website for lottery results and promotional offers, with an a
 
 [Explore KGF Lottery Agency ↗](https://kgflottery.com/)
 
-### 🚕 PurpleDropTaxi — Taxi-Booking Platform
-
-`Next.js` `React` `Tailwind CSS` `Google Maps APIs` `Telegram Bot API` `Hostinger`
-
-Built a responsive taxi-booking PWA with location autocomplete, fare estimates, route mapping, and Telegram enquiries. Deployed on Hostinger.
-
-[Explore PurpleDropTaxi ↗](https://purpledroptaxi.com/)
-
 ### 🛒 Mangal and Mangal — Ecom Super Store
 
 `Next.js` `Tailwind CSS` `Node.js` `PostgreSQL`
 
-Collaborated with the development team on product catalogs, customer reviews, pincode- and state-based shipping logic, and an admin dashboard.
+Implemented the complete UI and contributed backend functionality for shipping, filtering, and product preview before publishing, in collaboration with the development team.
 
 [Explore the store ↗](https://stores.mangalandmangal.com/)
 
@@ -125,7 +136,7 @@ Collaborated with the development team on product catalogs, customer reviews, pi
 
 | Focus | Hands-on practice |
 | --- | --- |
-| **CI/CD** | Build and deployment workflows with GitHub Actions and Jenkins |
+| **CI/CD** | GitHub Actions builds, Docker Hub publishing, and SSH container deployments; continuing Jenkins practice |
 | **Infrastructure automation** | Terraform and Ansible |
 | **Container orchestration** | Kubernetes workloads and deployment concepts |
 | **Operations** | Monitoring, logs, and application troubleshooting |
@@ -135,8 +146,8 @@ Collaborated with the development team on product catalogs, customer reviews, pi
 
 | Certificate | Issuer / credential | Completed |
 | --- | --- | --- |
-| **Full Stack Development** | Credential: `PT/GP/MERN/153/2025` | — |
-| **DevOps Engineering** | Revamp Academy | July 2026 |
+| **Full Stack Development** | Pumo Technovation India Pvt Ltd · Credential: `PT/GP/MERN/153/2025` | — |
+| **DevOps Engineering** | Revamp Academy · Issuer Udyam registration: `UDYAM-TN-12-0022878` | July 2026 |
 | **AWS Cloud Computing Training** | Revamp Academy | July 2026 |
 | **Infrastructure Automation & Monitoring Training** | Revamp Academy | July 2026 |
 
@@ -165,7 +176,7 @@ Cooking · Travelling with friends · Listening to music
 <h3 align="center">Let's build something useful.</h3>
 
 <p align="center">
-  Open to Full Stack Developer opportunities and project collaborations.<br />
+  Open to Full Stack Developer, Junior Cloud Engineer, and Junior DevOps Engineer opportunities, plus project collaborations.<br />
   <a href="https://www.linkedin.com/in/iam-lakshmanan/">Connect on LinkedIn</a> ·
   <a href="mailto:lakshmanan02731@gmail.com">Send an email</a> ·
   <a href="https://lakshmanan-portfolio-iota.vercel.app/">Visit my portfolio</a>
